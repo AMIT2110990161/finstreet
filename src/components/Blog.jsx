@@ -5,17 +5,17 @@ const blogs = [
   {
     title: 'Understanding Cryptocurrency',
     description: 'A beginner’s guide to cryptocurrency and how it works.',
-    image: 'https://via.placeholder.com/300x200',
+    image: 'https://t3.ftcdn.net/jpg/04/24/53/50/240_F_424535039_f0HgjloFjZodjP0qDErF6HZrVm7qJ7mo.jpg',
   },
   {
     title: 'Blockchain Technology',
     description: 'Learn the fundamentals of blockchain technology.',
-    image: 'https://via.placeholder.com/300x200',
+    image: 'https://t3.ftcdn.net/jpg/01/88/09/80/240_F_188098032_CgWr6DKHRbkGXS7CiNL9c8vOoernv2gy.jpg',
   },
   {
     title: 'Investing in Crypto',
     description: 'Tips and strategies for investing in cryptocurrency.',
-    image: 'https://via.placeholder.com/300x200',
+    image: 'https://t4.ftcdn.net/jpg/05/89/94/51/240_F_589945177_y7K3yFoQPxupJExk2Dt0qbUYsOjU8kpK.jpg',
   },
 ];
 
